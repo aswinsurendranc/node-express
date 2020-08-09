@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "name": "node-express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/aswinsurendranc/node-express.git",
+  "author": "aswin",
+  "license": "MIT"
 }
